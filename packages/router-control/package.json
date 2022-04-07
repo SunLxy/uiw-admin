@@ -44,7 +44,7 @@
   },
   "devDependencies": {
     "@babel/runtime": "~7.17.0",
-    "@types/react": "~17.0.39",
+    "@types/react": "~18.0.0",
     "@types/react-dom": "~17.0.11",
     "@uiw-admin/exceptions": "5.3.1",
     "@uiw-admin/models": "5.3.1",
