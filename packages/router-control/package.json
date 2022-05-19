@@ -50,8 +50,8 @@
     "@uiw-admin/exceptions": "5.3.15",
     "@uiw-admin/models": "5.3.15",
     "@uiw-admin/utils": "5.3.15",
-    "react": "~17.0.2",
-    "react-dom": "~17.0.2",
+    "react": "~18.1.0",
+    "react-dom": "~18.1.0",
     "react-redux": "7.2.6",
     "react-router-dom": "6.2.1"
   }
